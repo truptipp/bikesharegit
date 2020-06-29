@@ -20,15 +20,30 @@ will display the results
 9.If yes program will go to step 1 else will exit.
 
 Data Analytics
+Displays statistics on the most frequent times of travel.
 display the most common month
 display the most common day of weekday
 display the most common start hour
+
+Displays statistics on the most popular stations and trip
 display most commonly used start station
 display most commonly used end station
 display most frequent combination of start station and end station trip
 display trip combination of start station and end station trip in recent year
 display total travel time
 display mean travel time
+
+Displays statistics on the total and average trip duration
+display total travel time
+display mean travel time
+
+
+Displays statistics on bikeshare users
+Display counts of user types
+Display counts of gender
+Display earliest, most recent, and most common year of birth
+Display aggregates by birth year and user type
+
 
 ### Files used
 Chicago.csv
