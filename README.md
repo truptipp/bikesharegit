@@ -19,7 +19,16 @@ will display the results
 8.Program will ask if user wants to continue?
 9.If yes program will go to step 1 else will exit.
 
-
+Data Analytics
+display the most common month
+display the most common day of weekday
+display the most common start hour
+display most commonly used start station
+display most commonly used end station
+display most frequent combination of start station and end station trip
+display trip combination of start station and end station trip in recent year
+display total travel time
+display mean travel time
 
 ### Files used
 Chicago.csv
